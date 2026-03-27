@@ -5,3 +5,6 @@ google-api-python-client
 google-auth-oauthlib
 google-auth-httplib2
 python-dotenv
+
+
+https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=786861255869-s51vqdhfsp4u7q5v6fud7q6c5h9cjmnp.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A49678%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fblogger&state=3JzX6cRAgG4EcOYprKs3443DGhLW0P&code_challenge=qiVEhwhYtUED7vXgK8Du0miwdH1UDZfcETL2lBmpfso&code_challenge_method=S256&access_type=offline
